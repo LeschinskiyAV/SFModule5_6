@@ -1,6 +1,4 @@
-﻿using System;
-using System.ComponentModel.Design;
-using System.Linq;
+﻿
 
 namespace HomeWork5_6;
 
